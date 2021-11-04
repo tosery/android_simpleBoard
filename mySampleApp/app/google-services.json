@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477274765166",
+    "project_id": "mysampleapp-33aa1",
+    "storage_bucket": "mysampleapp-33aa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477274765166:android:b11406c55788977e7c337f",
+        "android_client_info": {
+          "package_name": "com.bokchi.mysampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477274765166-2nhcndiri7eod5668r2ts6j60470gfvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH16-ZBAW5toSgcvl5_M493LkwloDJexo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477274765166-2nhcndiri7eod5668r2ts6j60470gfvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
